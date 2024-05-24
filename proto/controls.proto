@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+package controls;
+
+message RequestSum {
+    int32 random_max = 1;
+}
+
+message SumResponse {
+    int32 sum = 1;
+}

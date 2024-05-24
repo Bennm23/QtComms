@@ -1,0 +1,16 @@
+**/*autogen
+**/CMakeFiles
+bin
+build
+**/Makefile
+**/*.cmake
+**/CMakeCache*
+install_manifest.txt
+
+
+**/*.pb.h
+**/*.pb.cc
+
+.vscode
+.cmake
+.qtc*

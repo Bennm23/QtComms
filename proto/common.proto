@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package common;
+
+
+enum MessageID {
+
+    CONTROL_REQUEST_SUM = 0;
+    BACKEND_SUM_RESPONSE = 1;
+}
